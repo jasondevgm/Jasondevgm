@@ -60,11 +60,11 @@
 
 ## => 📫 How to contact me:
 
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Send Me an Email**](mailto:jasondevgm@gmail.com)
+### &emsp; &emsp; &emsp; - [**Send Me an Email**](mailto:jasondevgm@gmail.com)
 
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Get to know me**](#)
+### &emsp; &emsp; &emsp; - [**Get to know me**](#)
 
-### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
+### &emsp; &emsp; &emsp; - [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
 <br/>
 
 ---
