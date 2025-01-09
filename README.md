@@ -23,14 +23,14 @@
 
 <br/>
 
-## - 🔭 I’m currently working with frameworks like: **Ionic | Angular | React**
+## => 🔭 I’m currently working with frameworks like: **Ionic | Angular | React**
 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 <br/>
 
-## - 🔤 **Programming Languages:**
+## => 🔤 **Programming Languages:**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
@@ -40,14 +40,14 @@
 
 <br/>
 
-## - 🧰 **Tools and Services:**
+## => 🧰 **Tools and Services:**
 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 <br/>
 
-## - 🌱 I’m currently learning: **Next.js | AWS | Astro**
+## => 🌱 I’m currently learning: **Next.js | AWS | Astro**
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
@@ -56,15 +56,15 @@
 
 [![CODE](/images/esCr.webp)](#)
 
-## - 💁 Active User at: **GitHub | LinkedIn**
+## => 💁 Active User at: **GitHub | LinkedIn**
 
-## - 📫 How to contact me:
+## => 📫 How to contact me:
 
-### &nbsp;&nbsp;&nbsp;=> [**Send Me an Email**](mailto:jasondevgm@gmail.com)
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Send Me an Email**](mailto:jasondevgm@gmail.com)
 
-### &nbsp;&nbsp;&nbsp;=> [**Get to know me**](#)
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Get to know me**](#)
 
-### &nbsp;&nbsp;&nbsp;=> [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; => [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
 <br/>
 
 ---
