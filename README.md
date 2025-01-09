@@ -1,9 +1,8 @@
 #  <br>Hi there! <img src="./images/greet.gif" width="30"> Welcome To My <img src="./images/octo.gif" alt="GitHub Logo" width="50" height="50" /> Profile !
-----------------------------------------[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)----------------------------------------
 
-<br/>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
 
-- 😄 I'm Jason Steven, **<mark>aFull Stack Web Developer 💻.</mark>**
+## => 😄 I'm Jason Steven, **aFull Stack Web Developer 💻.**
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -11,7 +10,7 @@
 
 <br/>
 
-- 🙌 I'm open to: **Web development and systems administration.**
+## => 🙌 I'm open to: **Web development and systems administration.**
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
@@ -24,15 +23,14 @@
 
 <br/>
 
-- 🔭 I’m currently working with frameworks like: **Ionic | Angular | React**
+## - 🔭 I’m currently working with frameworks like: **Ionic | Angular | React**
 
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
 <br/>
-<br/>
 
-- 🔤 **<mark>Programming Languages:</mark>**
+## - 🔤 **Programming Languages:**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
@@ -42,37 +40,35 @@
 
 <br/>
 
-- 🧰 **<mark>Tools and Services:</mark>**
+## - 🧰 **Tools and Services:**
 
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 <br/>
-<br/>
 
-- 🌱 I’m currently learning: **Next.js | AWS | Astro**
+## - 🌱 I’m currently learning: **Next.js | AWS | Astro**
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 <br/>
-<br/>
 
 [![CODE](/images/esCr.webp)](#)
 
-- 💁 Active User at: **GitHub | LinkedIn**
+## - 💁 Active User at: **GitHub | LinkedIn**
 
-- 📫 How to contact me:
+## - 📫 How to contact me:
 
-    * [**Send Me an Email**](mailto:jasondevgm@gmail.com)
+### &nbsp;&nbsp;&nbsp;=> [**Send Me an Email**](mailto:jasondevgm@gmail.com)
 
-    * [**Get to know me**](#)
+### &nbsp;&nbsp;&nbsp;=> [**Get to know me**](#)
 
-    * [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
+### &nbsp;&nbsp;&nbsp;=> [**Connect via LinkedIn**](https://www.linkedin.com/in/jason-steven-gamba-manzano-03574733b/)
 <br/>
-<br/>
-<br/>
-<br/>
+
+---
+
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -88,5 +84,3 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
-
-
