@@ -13,7 +13,7 @@
 
 - 🙌 I'm open to: **Web development and systems administration.**
 
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
