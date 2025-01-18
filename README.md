@@ -10,7 +10,7 @@
 
 <br/>
 
-## => 🙌 I'm open to: **Web development and systems administration.**
+## => 🙌 I'm open to: **Software development and systems administration.**
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
